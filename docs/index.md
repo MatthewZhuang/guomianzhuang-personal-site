@@ -1,11 +1,6 @@
-# 你好
+# 欢迎
 
-这里是庄郭冕的个人网站 <https://matthewzhuang.github.io/guomianzhuang-personal-site/>
-
-- 通过主题和目录以打开文章
-    - PC端 在上方标签栏选择主题 在左侧目录选择文章
-    - 移动端 点击左上角图标选择主题和文章
-- 搜索关键词以打开文章
+这里是Matthew的个人网站 <https://matthewzhuang.github.io/guomianzhuang-personal-site/>
 
 ---
 
@@ -15,6 +10,9 @@
 
 - TODO
 
-## 个人信息
+## 个人经历
+- 2018.4～至今 阿里巴巴算法专家
+- 2015.7～2018.3  浙江大学计算机学院，导师李善平教授。
+- 2011.9～2015.6  东北大学软件学院软件工程专业
 
 更多信息请查看 [个人介绍](./ME/introduction.md)

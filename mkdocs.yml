@@ -2,3 +2,12 @@ site_name: Matthew
 theme: readthedocs
 site_author: Matthew
 site_description: Matthew's Homepage
+
+
+nav:
+  - Home:
+    - index.md
+  - 推荐系统:
+    - 推荐系统/index.md
+  - 关于博主:
+    - 关于博主/introduction.md

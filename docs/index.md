@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# 你好
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+这里是庄郭冕的个人网站 <https://matthewzhuang.github.io/guomianzhuang-personal-site/>
 
-## Commands
+- 通过主题和目录以打开文章
+    - PC端 在上方标签栏选择主题 在左侧目录选择文章
+    - 移动端 点击左上角图标选择主题和文章
+- 搜索关键词以打开文章
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+---
 
-## Project layout
+> 更新于 240324
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 个人现状
+
+- TODO
+
+## 个人信息
+
+更多信息请查看 [个人介绍](./ME/introduction.md)

@@ -5,9 +5,10 @@ site_description: Matthew's Homepage
 
 
 nav:
-  - Home:
-    - index.md
+  - index.md
   - 推荐系统:
-    - 推荐系统/index.md
+    - 推荐系统/论文阅读计划.md
+  - 随笔:
+    - 随笔/20240325复杂事情简单做.md
   - 关于博主:
-    - 关于博主/introduction.md
+    - 关于博主/自我介绍.md

@@ -1,5 +1,3 @@
-# Welcome
-
 这里是Matthew的个人网站 <https://matthewzhuang.github.io/matthew-personal-site/>
 
 ---

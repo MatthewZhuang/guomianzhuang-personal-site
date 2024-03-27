@@ -6,6 +6,12 @@ site_description: Matthew's Homepage
 
 nav:
   - index.md
+  - Quant:
+    - Quant/20240326自己搭建交易系统.md
+    - Quant/20240327Quant基本知识.md
+    - Quant/20240328Quant资料整理.md
+  - LLM:
+    - LLM/Survey.md
   - 推荐系统:
     - 推荐系统/论文阅读计划.md
   - 随笔:

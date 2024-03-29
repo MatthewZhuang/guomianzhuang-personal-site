@@ -1,0 +1,2 @@
+- 1、安装conda,[link](https://blog.csdn.net/weixin_42810939/article/details/124691635)
+- 2、上面install的torch有可能启动不起来,可以尝试安装cpu版本, conda install pytorch-cpu torchvision-cpu

@@ -1,2 +1,4 @@
 - 1、安装conda,[link](https://blog.csdn.net/weixin_42810939/article/details/124691635)
 - 2、上面install的torch有可能启动不起来,可以尝试安装cpu版本, conda install pytorch-cpu torchvision-cpu
+- 3、激活环境：conda activate /opt/anaconda3/envs/pytorch;
+- 4、jupyter notebook / jupyter notebook password

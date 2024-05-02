@@ -1,8 +1,8 @@
-site_name: Matthew
-theme: readthedocs
+site_name: MATTHEW
+#theme: rtd-dropdown
 site_author: Matthew
 site_description: Matthew's Homepage
-
+theme: readthedocs
 
 nav:
   - index.md
@@ -10,15 +10,47 @@ nav:
     - Quant/20240326自己搭建交易系统.md
     - Quant/20240327Quant基本知识.md
     - Quant/20240328Quant资料整理.md
+    - Quant/策略库构建.md
   - LLM:
-    - LLM/Survey.md
-  - 推荐系统:
-    - 推荐系统/22-23工作总结.md
+    - LLM/LLM_大模型幻觉.md
+    - LLM/LLM4Quant.md
+    - LLM/LLM4Rec_TCF.md
+    - LLM/LLM4Rec_论文阅读20240421.md
+    - LLM/LLM4Rec_Prompt-Tuning.md
+  - 搜推广:
+    - 搜推广/业务-挖矿.md
+    - 搜推广/业务-记一次pcoc高估问题排查.md
+    - 搜推广/出价-工业界广告出价总结.md
+    - 搜推广/出价-GFP机制下广告主出价策略.md
+    - 搜推广/出价-GSP机制下广告主出价策略MCB.md
+    - 搜推广/精排-工业界算法总结篇.md
+    - 搜推广/精排-序列建模.md
+    - 搜推广/精排-全域学习.md
+    - 搜推广/精排-多任务学习.md
+    - 搜推广/精排-多场景学习.md
+    - 搜推广/召回-工业界算法总结篇.md
+    - 搜推广/召回-两阶段召回优化.md
+    - 搜推广/召回-两阶段召回优化代码实现.md
+    - 搜推广/召回-MIND模型.md
+    - 搜推广/召回-DeepRankI2I.md
+    - 搜推广/召回-DeepI2I.md
+    - 搜推广/召回-PDN算法.md
+    - 搜推广/召回-图模型召回.md
+    - 搜推广/召回-发现性召回及图模型的应用.md
+    - 搜推广/召回-召回loss.md
+    - 搜推广/算法-模型裁剪.md
+    - 搜推广/算法-mask.md
   - 技术随笔:
     - 技术随笔/python3安装jupyter.md
     - 技术随笔/pytorch安装.md
-  - 工作与生活:
-    - 工作与生活/20240325复杂事情简单做.md
-    - 工作与生活/Wagyu.md
-  - 关于博主:
-    - 关于博主/自我介绍.md
+    - 技术随笔/jupyter制作ppt.md
+    - 技术随笔/终端命令.md
+  - 工作与学习:
+    - 工作与学习/问题的根源是什么?.md
+    - 工作与学习/原则_如何工作与学习.md
+    - 工作与学习/打破认知.md
+    - 工作与学习/20240325复杂事情简单做.md
+  - 问题日志:
+    - 问题日志/action_list.md
+    - 问题日志/20240428.md
+    - 问题日志/20240429.md

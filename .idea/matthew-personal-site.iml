@@ -7,6 +7,7 @@
     <orderEntry type="module" module-name="Quant" />
     <orderEntry type="module" module-name="multi-factor" />
     <orderEntry type="module" module-name="mfm_learner" />
+    <orderEntry type="module" module-name="LLM4Quant" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Nosetests" />

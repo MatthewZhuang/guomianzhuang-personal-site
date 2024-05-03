@@ -10,7 +10,11 @@ nav:
     - Quant/20240326自己搭建交易系统.md
     - Quant/20240327Quant基本知识.md
     - Quant/20240328Quant资料整理.md
+    - Quant/交易软件_QMT.md
+    - Quant/回测框架_backtrader.md
+    - Quant/实盘量化方案.md
     - Quant/策略库构建.md
+    - Quant/策略验证.md
   - LLM:
     - LLM/LLM_大模型幻觉.md
     - LLM/LLM4Quant.md

@@ -12,8 +12,9 @@ nav:
     - Quant/20240328Quant资料整理.md
     - Quant/交易软件_QMT.md
     - Quant/回测框架_backtrader.md
+    - Quant/回测框架_rqalpha.md
     - Quant/实盘量化方案.md
-    - Quant/策略库构建.md
+    - Quant/策略库构建_LLM4Quant.md
     - Quant/策略验证.md
   - LLM:
     - LLM/LLM_大模型幻觉.md

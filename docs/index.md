@@ -10,7 +10,7 @@ It's important to teach problem solving, or teach to the problem not to the tool
 
 ## 个人经历
 - 东北大学>浙江大学>阿里巴巴>独立开发者
-- 主业LLM+搜广推, 副业挖矿.
+- 主业LLM+搜广推牛马, 副业挖矿工人.
 
 
 联系方式: heimixiaozhuang@zju.edu.cn

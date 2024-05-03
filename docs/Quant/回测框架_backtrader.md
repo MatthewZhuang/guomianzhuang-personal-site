@@ -8,6 +8,7 @@
 
 这类回测框架，封装了上面的基本功能模块，并且封装了一些基本的因子策略。
 
+[使用实例](https://github.com/soulmachine/crypto-notebooks/blob/master/backtest/Clenow-trend-following.ipynb)
 
 - backtrader和QMT的关系？
   - backtrader支持回测（backtrader）、模拟盘（paper trading）、实盘（live trading），但是不支持国内的交易市场；

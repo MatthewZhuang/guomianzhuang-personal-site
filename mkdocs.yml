@@ -16,6 +16,11 @@ nav:
     - Quant/实盘量化方案.md
     - Quant/策略库构建_LLM4Quant.md
     - Quant/策略验证.md
+    - Quant/Python金融库.md
+    - Quant/多因子模型学习1.md
+    - Quant/高频量化Optiver.md
+    - Quant/高频量化交易项目.md
+    - Quant/高频量化知识一.md
   - LLM:
     - LLM/LLM_大模型幻觉.md
     - LLM/LLM4Quant.md

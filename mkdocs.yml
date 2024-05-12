@@ -27,6 +27,8 @@ nav:
     - LLM/LLM4Rec_TCF.md
     - LLM/LLM4Rec_论文阅读20240421.md
     - LLM/LLM4Rec_Prompt-Tuning.md
+  - 机器学习:
+    - 机器学习/趋势预测任务.md
   - 搜推广:
     - 搜推广/业务-挖矿.md
     - 搜推广/业务-记一次pcoc高估问题排查.md
